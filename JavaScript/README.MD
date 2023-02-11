@@ -1,0 +1,1 @@
+In this version, `Promise.all()` is used to wait for all the fetch requests to complete, and the results are stored in an array called data. The code then iterates through the array and retrieves the relevant information for each pin code, as in the previous versions.
